@@ -8,13 +8,13 @@ This calculator performs basic arithmetic operations like addition, subtraction,
 
 ## 📌 Features
 
-* ➕ Addition
-* ➖ Subtraction
-* ✖ Multiplication
-* ➗ Division
-* 🧹 Clear (C) button to reset input
-* 🔢 Decimal number support
-* 📱 Responsive design (works on desktop and mobile)
+*  Addition
+*  Subtraction
+*  Multiplication
+*  Division
+*  Clear (C) button to reset input
+*  Decimal number support
+*  Responsive design (works on desktop and mobile)
 
 ---
 

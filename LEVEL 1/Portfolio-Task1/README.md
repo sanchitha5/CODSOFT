@@ -9,14 +9,14 @@ This portfolio represents my journey as a **Frontend Developer**, highlighting m
 
 ## 🌟 Features
 
-* ✅ Responsive Navigation Bar
-* ✅ Hero Section with Introduction
-* ✅ About Me Section
-* ✅ Skills Showcase Grid
-* ✅ Projects Gallery
-* ✅ Contact Section
-* ✅ Resume Download Button
-* ✅ Fully Responsive Design
+*  Responsive Navigation Bar
+*  Hero Section with Introduction
+*  About Me Section
+*  Skills Showcase Grid
+*  Projects Gallery
+*  Contact Section
+*  Resume Download Button
+*  Fully Responsive Design
 
 ---
 

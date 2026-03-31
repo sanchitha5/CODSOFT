@@ -8,13 +8,13 @@ This project demonstrates a structured layout with a navigation bar, hero sectio
 
 ## 📌 Features
 
-* ✅ Responsive Navigation Bar
-* ✅ Attractive Hero Section with Image
-* ✅ Features Section with Cards
-* ✅ Call-To-Action (CTA) Section
-* ✅ Clean Footer
-* ✅ Fully Responsive Layout
-* ✅ Modern UI Design
+*  Responsive Navigation Bar
+*  Attractive Hero Section with Image
+*  Features Section with Cards
+*  Call-To-Action (CTA) Section
+*  Clean Footer
+*  Fully Responsive Layout
+*  Modern UI Design
 
 ---
 
